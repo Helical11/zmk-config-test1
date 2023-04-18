@@ -13,6 +13,6 @@ if SHIELD_TEST1
 	default y
 
     config ZMK_USB
-    default n
+    default y
 
 endif
