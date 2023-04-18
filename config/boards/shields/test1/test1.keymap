@@ -9,7 +9,7 @@
             bindings = <
                 &kp A
                 &kp B
-                &kp C
+                &bt BT_CLR
             >;
         };
 
