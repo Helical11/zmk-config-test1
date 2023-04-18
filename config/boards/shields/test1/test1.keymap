@@ -10,7 +10,7 @@
             bindings = <
                 &kp KP_N7
                 &kp KP_N4
-                &kp mo 1
+                &mo 1
             >;
         };
 
