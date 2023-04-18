@@ -12,7 +12,4 @@ if SHIELD_TEST1
     config ZMK_USB
     default n
 
-    config BT_CTLR_TX_PWR_PLUS_8
-    default y
-
 endif
