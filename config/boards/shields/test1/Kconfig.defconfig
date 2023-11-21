@@ -3,4 +3,10 @@ if SHIELD_TEST1
     config ZMK_KEYBOARD_NAME
     default "test1"
 
+    config PWM
+    default y
+
+    config LED_PWM
+    default y
+
 endif
